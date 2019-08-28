@@ -1,0 +1,65 @@
+[
+  {
+    "mentee_id": "1",
+    "kra": [
+      {
+        "priority": 1,
+        "value": "kra data 1"
+      },
+      {
+        "priority": 2,
+        "value": "kra data 2"
+      },
+      {
+        "priority": 3,
+        "value": "kra data 3"
+      }
+    ],
+    "self_gyaan": "",
+    "status_id": 4,
+    "year": 2019,
+    "quarter": 3
+  },
+  {
+    "mentee_id": "2",
+    "kra": [
+      {
+        "priority": 1,
+        "value": "kra data 1"
+      },
+      {
+        "priority": 2,
+        "value": "kra data 2"
+      },
+      {
+        "priority": 3,
+        "value": "kra data 3"
+      }
+    ],
+    "self_gyaan": "",
+    "status_id": 4,
+    "year": 2019,
+    "quarter": 3
+  },
+  {
+    "mentee_id": "3",
+    "kra": [
+      {
+        "priority": 1,
+        "value": "kra data 1"
+      },
+      {
+        "priority": 2,
+        "value": "kra data 2"
+      },
+      {
+        "priority": 3,
+        "value": "kra data 3"
+      }
+    ],
+    "self_gyaan": "",
+    "status_id": 4,
+    "year": 2019,
+    "quarter": 3
+  }
+]
