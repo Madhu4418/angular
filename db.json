@@ -4,18 +4,21 @@
     "kra": [
       {
         "priority": 1,
-        "value": "kra data 1"
+        "value": "kra data 1",
+         "self_gyaan": ""
       },
       {
         "priority": 2,
-        "value": "kra data 2"
+        "value": "kra data 2",
+         "self_gyaan": ""
       },
       {
         "priority": 3,
-        "value": "kra data 3"
+        "value": "kra data 3",
+         "self_gyaan": ""
       }
     ],
-    "self_gyaan": "",
+   
     "status_id": 4,
     "year": 2019,
     "quarter": 3
@@ -25,18 +28,21 @@
     "kra": [
       {
         "priority": 1,
-        "value": "kra data 1"
+        "value": "kra data 1",
+         "self_gyaan": ""
       },
       {
         "priority": 2,
-        "value": "kra data 2"
+        "value": "kra data 2",
+         "self_gyaan": ""
       },
       {
         "priority": 3,
-        "value": "kra data 3"
+        "value": "kra data 3",
+         "self_gyaan": ""
       }
     ],
-    "self_gyaan": "",
+   
     "status_id": 4,
     "year": 2019,
     "quarter": 3
@@ -46,18 +52,20 @@
     "kra": [
       {
         "priority": 1,
-        "value": "kra data 1"
+        "value": "kra data 1",
+         "self_gyaan": ""
       },
       {
         "priority": 2,
-        "value": "kra data 2"
+        "value": "kra data 2",
+         "self_gyaan": ""
       },
       {
         "priority": 3,
-        "value": "kra data 3"
+        "value": "kra data 3",
+         "self_gyaan": ""
       }
     ],
-    "self_gyaan": "",
     "status_id": 4,
     "year": 2019,
     "quarter": 3
