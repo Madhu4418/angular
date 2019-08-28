@@ -1,6 +1,6 @@
 {"self-gyaan":[
   {
-    "mentee_id": "1",
+    "id": "1",
     "kra": [
       {
         "priority": 1,
@@ -21,7 +21,7 @@
     "quarter": 3
   },
   {
-    "mentee_id": "2",
+    "id": "2",
     "kra": [
       {
         "priority": 1,
@@ -42,7 +42,7 @@
     "quarter": 3
   },
   {
-    "mentee_id": "3",
+    "id": "3",
     "kra": [
       {
         "priority": 1,
